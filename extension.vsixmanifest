@@ -12,7 +12,7 @@
     <PreviewImage>Emacs_big.png</PreviewImage>
     <InstalledByMsi>false</InstalledByMsi>
     <SupportedProducts>
-      <VisualStudio Version="12.0">
+      <VisualStudio Version="14.0">
         <Edition>Pro</Edition>
       </VisualStudio>
     </SupportedProducts>
