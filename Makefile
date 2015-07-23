@@ -1,7 +1,8 @@
 FILES=$(shell ls | grep -v README.md | grep -v Makefile)
 
 all:
-	zip emacs.vsix $(FILES)
+	mkdir -p bin
+	zip bin/emacs.vsix $(FILES)
 
 clean:
-	rm emacs.vsix
+	rm -rf bin
