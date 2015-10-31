@@ -19,3 +19,5 @@ Open Visual Studio and you should see the new keybindings available under Tools 
 ```
 
 You might have to restart Visual Studio twice in order for the Emacs keybindings to install properly.
+
+If the option is not available check that emacs.vsk is in the folder "c:\program files (x86)\microsoft visual studio 11.0\common7\ide", otherwise you can copy it there manually.
